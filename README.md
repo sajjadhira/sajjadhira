@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajjadhira
-- 👀 It’s in progress ...
+- 👀 Update is in progress ...
 
 <!---
 sajjadhira/sajjadhira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
