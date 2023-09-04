@@ -39,6 +39,7 @@
 
 
 **Languages and Tools:**  
+<br/>
 <span style="background-color: #fff; padding: 5px;margin-top:5px">
 <code><img height="20" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341"></code>
