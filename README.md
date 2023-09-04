@@ -24,10 +24,10 @@
 
 
 - 🔭 I’m currently working on [Inihub](https://inihub.com/).
-- 🌱 I’m currently learning more about ReactJS and Laravel API.
+- 🌱 I’m currently learning more about WordPress, ReactJS and Laravel API.
 - 👯 I’m looking to collaborate on Node.js.
 - 🤔 I’m looking for help with ReactJS documentation.
-- 💬 Ask me about Laravel, PHP, ReactJS or any tech-related stuff.
+- 💬 Ask me about PHP, WordPress, Laravel, ReactJS or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @sajjad_hira12](https://twitter.com/sajjad_hira12) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to learn and travel.
@@ -48,15 +48,15 @@
 <code><img height="20" src="https://img.shields.io/badge/-javascript-EFD81D?style=for-the-badge&labelColor=black&logo=javascript&logoColor=EFD81D"></code>
 <code><img height="20" src="https://img.shields.io/badge/-reactjs-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"></code>
 <code><img height="20" src="https://img.shields.io/badge/-mysql-E48D00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48D00"></code>
-<code><img height="20" src="https://img.shields.io/badge/-mysql-E48D00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48D00"></code>
 <code><img height="20" src="https://img.shields.io/badge/-mongodb-3E9737?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3E9737"></code>
+<code><img height="20" src="https://img.shields.io/badge/-github-000?style=for-the-badge&labelColor=fff&logo=github&logoColor=000"></code>
 
 </span>
 
 <a href="https://github.com/sajjadhira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhira&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/sajjadhira">
+<!-- <a href="https://github.com/sajjadhira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhira&show_icons=true&theme=light&line_height=27" alt="Sajjad's github stats"/>
-</a>
+</a> -->
 
