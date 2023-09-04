@@ -6,7 +6,7 @@
 - 🤔 I’m looking for a role of WordPress Plugin Developer.
 - 🤔 I’m looking for a company where I can learn more and boost my skills.
 - 💬 Ask me about PHP, WordPress, Laravel, and ReactJS.
-- 💬 If you have any project idea in my capabilities let's do it together.
+- 💬 If you have any project ideas let's do it real together.
 - 📫 How to reach me: [Linkedin - Sajjad Hossain](https://www.linkedin.com/in/sajjadhossainhira) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to learn and travel (nothing fun here, the programmer's joke looks like it, joke but not funny, LOL).
