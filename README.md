@@ -41,13 +41,16 @@
 **Languages and Tools:**  
 <br/>
 <span style="background-color: #fff; padding: 5px;margin-top:5px">
-<code><img height="20" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/bdc2ad7847367dd9c66145d51470095066fcb1ac514b26e2a2785f7ae96a1f1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3343383733413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d334338373341"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/8e4a668bb3e69b0ab12ff19e5038b089ea85543993268a965f6cebe6ca2b4d9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444246423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d7265616374266c6f676f436f6c6f723d363144424642"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/82cd498d68f1929233bffb5d3bd2229cb0a97728b4983ee3a607c1941a9c9b7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4630444234463f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463044423446"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/eb9f63e1e5baf35cfd84596d4e7d24395b2011b40691fc3f7eb30abb34dda9d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d3030376163633f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d74797065736372697074266c6f676f436f6c6f723d303037616363"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/da8e0787234adaa162523caf0961eef47613c0a916ea04c26f55fa64b3012d00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068516c2d6535333561623f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d626c61636b266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d653533356162"></code>
+<code><img height="20" src="https://img.shields.io/badge/-PHP-7A86B8?style=for-the-badge&labelColor=black&logo=php&logoColor=7A86B8"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20"></code>
+<code><img height="20" src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B"></code>
+<code><img height="20" src="https://img.shields.io/badge/-python-FFDE56?style=for-the-badge&labelColor=black&logo=python&logoColor=FFDE56"></code>
+<code><img height="20" src="https://img.shields.io/badge/-javascript-EFD81D?style=for-the-badge&labelColor=black&logo=javascript&logoColor=EFD81D"></code>
+<code><img height="20" src="https://img.shields.io/badge/-reactjs-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/-mysql-E48D00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48D00"></code>
+<code><img height="20" src="https://img.shields.io/badge/-mysql-E48D00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48D00"></code>
+<code><img height="20" src="https://img.shields.io/badge/-mongodb-3E9737?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3E9737"></code>
+
 </span>
 
 <a href="https://github.com/sajjadhira">
