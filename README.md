@@ -1,23 +1,5 @@
 ## Hi, I'm [Sajjad Hossain!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadhira&label=Views&color=blue&style=plastic" alt="sajjadhira" /> </p>
-
-<a href="https://twitter.com/sajjad_hira12">
-  <img align="left" alt="Sajjad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sajjadhossainhira/">
-  <img align="left" alt="Sajjad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/sajjadhira">
-  <img align="left" alt="Sajjad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/sajjadhossainhira/">
-  <img align="left" alt="Sajjad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ssajjadhossainhira/">
-  <img align="left" alt="Sajjad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 
 <br/>
 <br/>
@@ -56,6 +38,26 @@
 <a href="https://github.com/sajjadhira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhira&theme=light&hide_langs_below=1" />
 </a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadhira&label=Views&color=blue&style=plastic" alt="sajjadhira" /> </p>
+
+<a href="https://twitter.com/sajjad_hira12">
+  <img align="left" alt="Sajjad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sajjadhossainhira/">
+  <img align="left" alt="Sajjad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/sajjadhira">
+  <img align="left" alt="Sajjad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/sajjadhossainhira/">
+  <img align="left" alt="Sajjad's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/ssajjadhossainhira/">
+  <img align="left" alt="Sajjad's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 <!-- <a href="https://github.com/sajjadhira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhira&show_icons=true&theme=light&line_height=27" alt="Sajjad's github stats"/>
 </a> -->
