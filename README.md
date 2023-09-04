@@ -2,14 +2,14 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Inihub](https://inihub.com/).
-- 🌱 I’m currently learning more about WordPress, ReactJS and Laravel API.
-- 👯 I’m looking to collaborate on Node.js.
-- 🤔 I’m looking for help with ReactJS documentation.
-- 💬 Ask me about PHP, WordPress, Laravel, ReactJS or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @sajjad_hira12](https://twitter.com/sajjad_hira12) 
+- 🌱 I’m currently learning more about WordPress, ReactJS, and Laravel API.
+- 🤔 I’m looking for a role of WordPress Plugin Developer.
+- 🤔 I’m looking for a company where I can learn more and boost my skills.
+- 💬 Ask me about PHP, WordPress, Laravel, and ReactJS.
+- 💬 If you have any project idea in my capabilities let's do it together.
+- 📫 How to reach me: [Linkedin - Sajjad Hossain](https://www.linkedin.com/in/sajjadhossainhira) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to learn and travel.
+- ⚡ Fun fact: I love to learn and travel (nothing fun here, the programmer's joke looks like it, joke but not funny, LOL).
 
 [![Twitter: Sajjad Hossain](https://img.shields.io/twitter/follow/sajjad_hira12?style=social)](https://twitter.com/sajjad_hira12)
 [![Linkedin: sajjadhossainhira](https://img.shields.io/badge/-sajjadhossainhira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajjadhossainhira/)](https://www.linkedin.com/in/sajjadhossainhira/)
