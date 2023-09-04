@@ -1,4 +1,4 @@
-## Hi, I'm [Sajjad Hossain!] 👋
+## Hi, I'm Sajjad Hossain! 👋
 
 <br/>
 
@@ -11,7 +11,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Available For: Full-Time/Part-Time/Contractual Job.
 
-[![Twitter: Sajjad Hossain](https://img.shields.io/twitter/follow/sajjad_hira12?style=social)](https://twitter.com/sajjad_hira12)
 [![Linkedin: sajjadhossainhira](https://img.shields.io/badge/-sajjadhossainhira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajjadhossainhira/)](https://www.linkedin.com/in/sajjadhossainhira/)
 [![GitHub sajjadhira](https://img.shields.io/github/followers/sajjadhira?label=follow&style=social)](https://github.com/sajjadhira)
 
