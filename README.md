@@ -28,14 +28,13 @@
 <code><img height="20" src="https://img.shields.io/badge/-mysql-E48D00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=E48D00"></code>
 <code><img height="20" src="https://img.shields.io/badge/-mongodb-3E9737?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3E9737"></code>
 
-</span>
 
 <a href="https://github.com/sajjadhira">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadhira&theme=light&hide_langs_below=1" />
 </a>
 
 
-<!-- <a href="https://github.com/sajjadhira">
+<a href="https://github.com/sajjadhira">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadhira&show_icons=true&theme=light&line_height=27" alt="Sajjad's github stats"/>
-</a> -->
+</a>
 
